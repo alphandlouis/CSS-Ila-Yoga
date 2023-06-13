@@ -231,23 +231,3 @@ button {
 	border: 0;
 	margin-bottom: 1%;
 }
-
- 
-
-/* FOOTER */
-.licence a {
-	color: #ffffff;
-	text-decoration: underline;
-}
-
-.licence {
-	background-color: #8B76D2;
-	padding: 10px;
-	color: white;
-	font-size: 0.8em;
-	text-align: center;
-}
-
-.licence img {
-    width: 50px;
-}
